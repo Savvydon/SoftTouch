@@ -10,7 +10,7 @@ export default function Contact() {
           <Col md={6}>
             <h5>Get in Touch</h5>
             <p>
-              <Phone size={16} /> +234903352678
+              <Phone size={16} /> +2347041515235
             </p>
             <p>
               <MessageCircle size={16} />{" "}
@@ -24,10 +24,12 @@ export default function Contact() {
             <p>
               <Mail size={16} /> softtouchstudio17@gmail.com
             </p>
-            <p>Kawo Bustop, Kaduna State</p>
+            <p>
+              Shop A21 Gidanbu Plaza, Lagos Garage, Kawo Bustop, Kaduna State
+            </p>
 
             <div className="d-flex gap-3 mt-3">
-              <a href="https://instagram.com/royalfit">
+              <a href="">
                 <Instagram />
               </a>
               <a href="https://tiktok.com/@soft.touch.studio6?">

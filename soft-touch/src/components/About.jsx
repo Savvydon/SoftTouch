@@ -21,7 +21,7 @@ export default function About() {
         </p>
         <p>
           From precision haircuts and advanced skincare treatments to relaxing
-          spa sessions and engaging pool (snooker) experiences, Royalefit is
+          spa sessions and engaging pool (snooker) experiences, Soft Touch is
           designed to elevate your confidence and comfort. We also offer
           professional tattoo and piercing services, nail care, and a curated
           collection of high-quality hair products and accessories.
